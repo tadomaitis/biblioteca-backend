@@ -1,3 +1,15 @@
+### Esta é a minha solução para o desafio "Biblioteca", do [DevChallenge](https://www.devchallenge.com.br/).
+
+Minha implementação utilizou [Node.js](https://nodejs.org/en/) com [Express](https://expressjs.com/) e [Typescript](https://www.typescriptlang.org/), banco de dados MongoDB, e testes com [Jest](https://jestjs.io/pt-BR/).
+
+Para executar, crie um arquivo `.env` na raiz do projeto, e preencha-o como exemplificado em `.env.example`.
+
+Após instaladas as dependências, execute a API utilizando o comando desejado conforme listado no `package.json`.
+
+Abaixo, o README original do desafio.
+
+========================================================
+
 <br />
 <p align="center">
     <img src="https://i.pinimg.com/originals/dd/64/da/dd64da585bc57cb05e5fd4d8ce873f57.png" alt="Logo" width="200">
